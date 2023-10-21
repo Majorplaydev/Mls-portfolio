@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/bgwhite.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,19 +24,25 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+"Hello, I'm Victor, and I'm passionate about creating innovative digital solutions as a web developer and smart contract developer. With a strong background in programming and a love for problem-solving, I thrive in the ever-evolving world of technology.";
+
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "React",
+  "Express",
+  "Git",
+  "Wordpress",
+  "MongoDB",
+  "Node.js",
+  "Solidity",
+  "Html",
+  "Css",
+  "Communication",
+  "Engineering 3d Modelling",
 ];
 
 /**
@@ -45,7 +51,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+"As a web developer, I specialize in crafting interactive and user-friendly websites that not only look great but also deliver seamless user experiences. I'm well-versed in a variety of programming languages, including HTML, CSS, JavaScript, and more. I'm dedicated to staying current with the latest web development trends and best practices, ensuring that my work is at the forefront of industry standards.";
 
 const About = () => {
   return (
